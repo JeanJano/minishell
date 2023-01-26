@@ -1,0 +1,4 @@
+*.o
+minishell
+libft/libft.a
+Shell_Tester
